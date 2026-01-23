@@ -1,2 +1,2 @@
 # my-first-project
-author-Rishi Trivedi
+author-Hrishikesh Trivedi
