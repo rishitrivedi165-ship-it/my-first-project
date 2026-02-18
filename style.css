@@ -1,0 +1,12 @@
+/* Target the entire page */
+body {
+    background-color: lightblue; /* Sets the background color */
+    font-family: Arial, sans-serif; /* Sets a clean font */
+    text-align: center; /* Centers the text */
+    margin-top: 50px; /* Adds space at the top */
+}
+
+/* Optional styling for the heading */
+h1 {
+    color: navy;
+}
